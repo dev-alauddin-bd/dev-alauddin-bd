@@ -6,18 +6,30 @@
 </p>
 
 <p align="center">
+  <a href="https://alauddindev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
   <a href="https://linkedin.com/in/alauddin-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+ <a href="https://wa.me/+8801635230838">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+    <a href="https://discord.gg/mdalauddin_13103">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:muhammadalauddin24434@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+ 
+
   <a href="https://facebook.com/alsajjad.islam">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/mdalauddin_13103">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+
+
 </p>
 
 
