@@ -1,7 +1,25 @@
-![Banner](https://github.com/Alauddin-24434/Alauddin-24434/blob/main/Md%20ALAUDDIN.png)
-
 <h1 align="center">Hi 👋, I'm MD ALAUDDIN</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN & Next.js Developer</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN & Next.js Specialist</h3>
+<p align="center">
+  I build fast, scalable, and modern web applications using MERN stack, Next.js, and TypeScript.<br/>
+  Passionate about clean UI, performance optimization, and real-world problem solving.
+</p>
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/alauddin-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:muhammadalauddin24434@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/alsajjad.islam">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/mdalauddin_13103">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
