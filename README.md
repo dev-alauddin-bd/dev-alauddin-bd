@@ -80,11 +80,11 @@ I enjoy solving real-world problems using modern technologies and continuously i
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-alauddin-bd&theme=react-dark)
 
-## 💡 Dev Quote
+## ⚠️ Note
 
-> "First, solve the problem. Then, write the code." – John Johnson
+I previously worked on another GitHub account: 👉 https://github.com/Alauddin-Dev-Bd  
 
+Unfortunately, I lost access to that account due to a **Two-Factor Authentication (2FA) issue**.
 
-## 👀 Profile Views
+It contains my earlier projects, contributions, and development experience.
 
-![Views](https://komarev.com/ghpvc/?username=dev-alauddin-bd&label=Profile%20views&color=0e75b6&style=flat)
