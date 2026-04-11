@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD ALAUDDIN</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN & Next.js Specialist</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN & Next.js</h3>
 <p align="center">
   I build fast, scalable, and modern web applications using MERN stack, Next.js, and TypeScript.<br/>
   Passionate about clean UI, performance optimization, and real-world problem solving.
