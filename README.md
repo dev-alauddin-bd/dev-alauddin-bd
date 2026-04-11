@@ -23,8 +23,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
- 
-
   <a href="https://facebook.com/alsajjad.islam">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
@@ -32,6 +30,8 @@
 
 </p>
 
+##
+💡 **Note:** I previously worked on another GitHub account: 👉 https://github.com/Alauddin-Dev-Bd
 
 ## 🧑‍💻 About Me
 
@@ -75,10 +75,6 @@ I enjoy solving real-world problems using modern technologies and continuously i
 
 
 ## 📊 GitHub Stats
-
-💡 **Note:** I previously worked on another GitHub account: 👉 https://github.com/Alauddin-Dev-Bd
-
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=dev-alauddin-bd&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=dev-alauddin-bd&theme=radical" />
