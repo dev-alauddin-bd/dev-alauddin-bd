@@ -61,26 +61,29 @@ I enjoy solving real-world problems using modern technologies and continuously i
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dev-alauddin-bd&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dev-alauddin-bd&theme=radical)
+💡 **Note:** I previously worked on another GitHub account: 👉 https://github.com/Alauddin-Dev-Bd
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-alauddin-bd&layout=compact&theme=radical)
 
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=dev-alauddin-bd&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=dev-alauddin-bd&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dev-alauddin-bd&layout=compact&theme=radical" />
+</p>
 
 ## 📈 Activity Graph
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-alauddin-bd&theme=react-dark)
 
----
-
 ## 💡 Dev Quote
 
 > "First, solve the problem. Then, write the code." – John Johnson
 
----
 
 ## 👀 Profile Views
 
