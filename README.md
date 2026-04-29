@@ -1,40 +1,53 @@
 <div align="center">
-  <img src="Alauddin-24434-readme-banner (1).png" alt="Banner" width="100%" />
+<div align="center">
 
-  <h1>Hi 👋, I'm MD ALAUDDIN</h1>
-  <h3>🚀 Full Stack Developer | MERN & Next.js</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1CD15D,100:0ea5e9&height=200&section=header&text=MD%20ALAUDDIN&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-  <p align="center">
-    📍 Dhaka, Bangladesh | 📧 <a href="mailto:muhammadalauddin24434@gmail.com">muhammadalauddin24434@gmail.com</a>
+  <h3 style="color:#f59e0b;">
+    🚀 FULL STACK DEVELOPER | ⚙️ BACKEND SPECIALIST | 🌐 MERN STACK
+  </h3>
+
+  <p style="color:#94a3b8;">
+    📍 Dhaka, Bangladesh &nbsp; | &nbsp; 📧 
+    <a href="mailto:muhammadalauddin24434@gmail.com" style="color:#38bdf8;">
+      muhammadalauddin24434@gmail.com
+    </a>
   </p>
+
+</div>
 
   <p align="center">
     <a href="https://portfolio-2sv3.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Portfolio-1CD15D?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
     <a href="https://linkedin.com/in/alauddin-dev">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://discord.gg/mdalauddin_13103">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Discord-6366f1?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
     <a href="https://facebook.com/alsajjad.islam">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Facebook-2563eb?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
   </p>
+
 </div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I’m a passionate **Full-Stack Developer** who loves building fast, scalable, and user-friendly web applications. I enjoy solving real-world problems using modern technologies and continuously improving my skills.
+💡 I’m a passionate **Full-Stack Developer** focused on building **scalable, high-performance, and user-friendly** web applications.
 
-- 🔭 I’m currently working on **Alhamdulillah Foundation** (A Charity Management System).
-- 🚀 I am exploring **Next.js 14** and **Scalable Backend Architectures**.
-- 🌱 I’m currently working on a **Tourism/Hotel Management Website** (Royal Palace).
-- 💬 Ask me about **React, Node.js, TypeScript**.
-- ⚡ Fun fact: I love clean UI and performance optimization.
+✨ I love turning real-world problems into clean, efficient digital solutions using modern technologies.
+
+---
+
+### 🚀 What I'm Doing Now
+
+- 🔭 Building **Alhamdulillah Foundation** — a Charity Management System  
+- 🌱 Exploring **Next.js 14** & **Scalable Backend Architecture**  
+- 🏨 Developing a **Tourism & Hotel Management System (Royal Palace)**  
 
 ---
 
